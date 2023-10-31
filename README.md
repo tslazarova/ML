@@ -6,4 +6,4 @@ plot.py - Custom formula for limiting specific ranges.
 
 xgb_035.py - Gradient boosting algorithm for regression predictive modeling.
 
-arima_walk_forward.py - ARIMA model implementation
+arima_walk_forward.py - ARIMA model implementation.
